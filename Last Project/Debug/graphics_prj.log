@@ -1,0 +1,131 @@
+﻿  main.cpp
+  Output.cpp
+c:\users\speed\downloads\last project\gui\output.cpp(861): warning C4018: '<': signed/unsigned mismatch
+c:\users\speed\downloads\last project\gui\output.cpp(870): warning C4018: '<': signed/unsigned mismatch
+  Input.cpp
+  XOR3.cpp
+  XOR2.cpp
+  XNOR2.cpp
+  SWITCH.cpp
+  ApplicationManager.cpp
+c:\users\speed\downloads\last project\applicationmanager.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\speed\downloads\last project\applicationmanager.cpp(506): warning C4018: '<': signed/unsigned mismatch
+  Pin.cpp
+  OutputPin.cpp
+  OR2.cpp
+  NOR3.cpp
+  NOR2.cpp
+  NAND2.cpp
+  LED.cpp
+  INVERTER.cpp
+  InputPin.cpp
+  Gate.cpp
+  Connection.cpp
+  Component.cpp
+  Generating Code...
+c:\users\speed\downloads\last project\applicationmanager.cpp(416): warning C4715: 'ApplicationManager::set_label_tocon': not all control paths return a value
+c:\users\speed\downloads\last project\gui\input.cpp(160): warning C4715: 'Input::GetUserAction': not all control paths return a value
+  Compiling...
+  BUFFER.cpp
+  AND3.cpp
+  AND2.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+c:\users\speed\downloads\last project\cmugraphicslib\image.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  CMUgraphics.cpp
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\speed\downloads\last project\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Validation.cpp
+  UNDO.cpp
+  Truthtable.cpp
+  SimulateCircuit.cpp
+  select.cpp
+  Save.cpp
+c:\users\speed\downloads\last project\actions\save.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  REDO.cpp
+  Past.cpp
+  multiselect.cpp
+  move.cpp
+  Load.cpp
+  Generating Code...
+  Compiling...
+  EXit.cpp
+  Edit.cpp
+  deleting.cpp
+  Cut.cpp
+  Copy.cpp
+  Circuit_Probing.cpp
+  AddXORgate3.cpp
+  AddXORgate2.cpp
+  AddXNORgate2.cpp
+  AddSWITCH.cpp
+  AddORgate2.cpp
+  AddNORgate3.cpp
+  AddNORgate2.cpp
+  AddNANDgate2.cpp
+  AddLED.cpp
+  AddLabel.cpp
+  AddINVERTER.cpp
+  AddConnection.cpp
+  AddBUFFERgate.cpp
+  AddANDgate3.cpp
+  Generating Code...
+  Compiling...
+  AddANDgate2.cpp
+  Generating Code...
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+c:\users\speed\downloads\last project\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+c:\users\speed\downloads\last project\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+c:\users\speed\downloads\last project\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\speed\downloads\last project\cmugraphicslib\jpeg\jerror.c(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+c:\users\speed\downloads\last project\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+AddANDgate2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  graphics_prj.vcxproj -> C:\Users\Speed\Downloads\Last Project\.\Debug\graphics_prj.exe

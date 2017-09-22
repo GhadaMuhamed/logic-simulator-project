@@ -1,0 +1,21 @@
+#ifndef _ACTION_H
+#define _ACTION_H
+class ApplicationManager; //forward class declaration
+//Base class for all possible actions (abstract class)
+class Action
+{
+protected:
+	ApplicationManager *pManager;	//Actions needs AppMngr to do their job
+public:
+	Action(ApplicationManager *pApp) { pManager = pApp; }	//constructor
+	//Reads parameters required for action to execute
+	virtual void ReadActionParameters() =0;
+	
+	//Execute action (code depends on action type)
+	virtual void Execute() =0;
+	//To undo this action (code depends on action type)
+	//To redo this action (code depends on action type)
+
+};
+
+#endif
